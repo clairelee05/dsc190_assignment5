@@ -1,6 +1,5 @@
-def main():
-    print("Hello from dsc190-assignment5!")
+def main(): 
+    print("Hello from dsc190-assignment5!") 
 
-
-if __name__ == "__main__":
+if __name__ == "__main__": 
     main()
